@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.Java4sem4.Java4sem4ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-10T06:38:40" hostname="DESKTOP-4H12CPO" time="1.287">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.Java4sem4.Java4sem4ApplicationTests" time="1.287"/>
+  <system-out><![CDATA[09:38:37.151 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.Java4sem4.Java4sem4ApplicationTests]: Java4sem4ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:38:37.333 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.Java4sem4.Java4sem4Application for test class com.example.Java4sem4.Java4sem4ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.4)
+
+2024-04-10T09:38:38.068+03:00  INFO 2204 --- [Java4sem4] [    Test worker] c.e.Java4sem4.Java4sem4ApplicationTests  : Starting Java4sem4ApplicationTests using Java 20.0.2 with PID 2204 (started by user in C:\Users\user\IdeaProjects\Java4sem4)
+2024-04-10T09:38:38.073+03:00  INFO 2204 --- [Java4sem4] [    Test worker] c.e.Java4sem4.Java4sem4ApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2024-04-10T09:38:40.680+03:00  INFO 2204 --- [Java4sem4] [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-10T09:38:40.773+03:00  INFO 2204 --- [Java4sem4] [    Test worker] c.e.Java4sem4.Java4sem4ApplicationTests  : Started Java4sem4ApplicationTests in 3.165 seconds (process running for 5.081)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
